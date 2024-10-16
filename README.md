@@ -7,3 +7,6 @@ The script serves as the foundational understanding for developing a PHP-based f
 Reference:
 1. https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://jurnal.uns.ac.id/itsmart/article/download/35008/27748&ved=2ahUKEwj4nLP1j5OJAxUjyjgGHbGNIrAQFnoECAkQAQ&usg=AOvVaw0KY7Lld0NDPxfIefDUEttz
 2. https://ejournal.bsi.ac.id/ejurnal/index.php/khatulistiwa/article/view/9859/4873
+
+Support me:
+https://saweria.co/wisnuerik04

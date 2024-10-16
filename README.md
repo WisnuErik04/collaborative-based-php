@@ -1,5 +1,6 @@
 # collaborative-based-php
 
-Script merupakan dasar pemahaman dari pembuatan sistem rekomendasi film berbasis php dengan referensi konten dari https://filmindonesia.or.id/, algoritma yang terdapat didalamnya yaitu:
-1. Content based cosine similarity dengan merekomendasikan 5 film lain berdasarkan kemiripan sinopsis pada film yang dilihatnya.
-2. Collaborative filtering dengan merekomendasikan film pada suatu pengguna, dengan cara mengumpulkan rating film oleh pengguna lainnya, kemudian membandingkan film pengguna untuk menentukan kesamaannya, sehingga menghasilkan tingkat rekomendasi yang memiliki ketertarikan yang sama dengan pelanggan lainnya.
+The script serves as the foundational understanding for developing a PHP-based film recommendation system, utilizing content from https://filmindonesia.or.id/ as a reference. The system employs two primary algorithms:
+
+1. Content-based cosine similarity: Recommends 5 other films based on the similarity of their synopses to the film the user has watched.
+2. Collaborative filtering: Recommends films to a user by gathering ratings from other users, then comparing the user's film preferences to determine similarities, resulting in recommendations that align with the preferences of other similar users.
